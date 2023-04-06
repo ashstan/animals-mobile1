@@ -1,0 +1,7 @@
+C:\Users\ashle\RiderProjects\animals-mobile\animals-mobile\bin\Debug\animals_mobile.exe
+C:\Users\ashle\RiderProjects\animals-mobile\animals-mobile\bin\Debug\animals_mobile.pdb
+C:\Users\ashle\RiderProjects\animals-mobile\animals-mobile\obj\Debug\animals-mobile.csproj.AssemblyReference.cache
+C:\Users\ashle\RiderProjects\animals-mobile\animals-mobile\obj\Debug\animals-mobile.csproj.SuggestedBindingRedirects.cache
+C:\Users\ashle\RiderProjects\animals-mobile\animals-mobile\obj\Debug\animals-mobile.csproj.CoreCompileInputs.cache
+C:\Users\ashle\RiderProjects\animals-mobile\animals-mobile\obj\Debug\animals_mobile.exe
+C:\Users\ashle\RiderProjects\animals-mobile\animals-mobile\obj\Debug\animals_mobile.pdb
