@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.IO.MemoryMappedFiles;
+using System.Security.Cryptography;
 
 namespace animals_mobile
 {
@@ -12,6 +13,12 @@ namespace animals_mobile
         public static void Main(string[] args)
         {
             ArrayList zoo = new ArrayList();
+
+            CreateAnimal createAnimal = new CreateAnimal();
+
+            createAnimal.CreateNewPet();
+            zoo.Add(new CreateAnimal());
+
 
             zoo.Add(new Dog("Bean", true));
             zoo.Add(new Cat("Charlie", 9));
@@ -37,7 +44,7 @@ namespace animals_mobile
             //    Console.WriteLine(thing.GetName() + " says=" + thing.Talk());
             //    outFile.fileWrite(thing.GetName() + " | " + thing.Talk());
             //}
-            
+
         }
 
         public static void PrintOut(ITalkable p)

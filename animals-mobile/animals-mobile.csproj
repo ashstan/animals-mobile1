@@ -39,6 +39,7 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="Cat.cs" />
+        <Compile Include="CreateAnimal.cs" />
         <Compile Include="Dog.cs" />
         <Compile Include="FileInput.cs" />
         <Compile Include="FileOutput.cs" />
